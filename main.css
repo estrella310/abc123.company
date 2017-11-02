@@ -1,0 +1,36 @@
+  .intro {color:red;
+   background-color:green;
+    font-family:couriert;
+    text-align:left;
+     width:75%
+    }
+  
+    div{ 
+      color:GRAY;
+   }    
+       
+    .header {
+      color:black;
+      font-size:70px;
+      font-family:Verdana;
+     }
+      
+    body {
+   background-color:blue;
+   text-align:center;
+    }
+    .content{text-align:center;
+    background-color:white;
+    width:80%;
+    height:600px;
+      font-size:20px;
+    }
+    .image{
+      width:50%
+    }
+    .header{
+      
+    }
+.image{
+  border:1<link0px dashed gray;
+}
